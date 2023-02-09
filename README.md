@@ -16,6 +16,8 @@
 
 
 ## The Dashboard
+![image](https://user-images.githubusercontent.com/68189556/217918399-edc4fcee-33f1-4df3-ae28-12994ab3ac91.png)
+
 
 ## The Insights
 + Sales declined more in the North and Central zones, as compared to the South zone
